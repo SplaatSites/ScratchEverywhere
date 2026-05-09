@@ -88,10 +88,10 @@ aspects) of this project!
 
 <p align="center">
 	<a href="https://github.com/ScratchEverywhere/ScratchEverywhere/graphs/contributors">
-	  <img src="https://contrib.rocks/image?repo=ScratchEverywhere/ScratchEverywhere" />
-	</a>
-	<br>
-	<sub>(Made with <a href="https://contrib.rocks">contrib.rocks</a>)</sub>
+     <img src="https://contrib.rocks/image?repo=ScratchEverywhere/ScratchEverywhere" />
+    </a>
+    <br>
+Made with [contrib.rocks](https://contrib.rocks).
 </p>
 
 If you would like to contribute to Scratch Everywhere!, see our
